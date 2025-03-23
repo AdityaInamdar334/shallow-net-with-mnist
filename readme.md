@@ -1,4 +1,3 @@
-Certainly! Here's a `README.md` file based on the shallow neural network tutorial using TensorFlow. You can create a new repository on GitHub and paste this content into your project's `README.md` file.
 
 ---
 
