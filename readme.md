@@ -15,7 +15,7 @@ This repository contains a simple implementation of a shallow neural network usi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/shallow-neural-network-tensorflow.git
+git clone https://github.com/adityainamdar334/shallow-net-with-mnist.git
 cd shallow-neural-network-tensorflow
 ```
 
